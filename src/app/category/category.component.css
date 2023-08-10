@@ -1,0 +1,7 @@
+.nav{
+    
+}
+#nav-item:hover{
+    text-decoration: underline;
+    font-weight: bold;
+}
